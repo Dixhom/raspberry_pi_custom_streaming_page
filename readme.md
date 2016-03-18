@@ -9,11 +9,13 @@
 ## Procedure
 1. Install mjpg-streamer
 
+
 	sudo apt-get install -y subversion libjpeg-dev imagemagick
 	svn co https://svn.code.sf.net/p/mjpg-streamer/code/mjpg-streamer mjpg-streamer
 	cd mjpg-streamer
 	make
 	sudo make install
+
 
 `~/mjpg-streamer/start_server.sh` should be like below:  
 
@@ -33,7 +35,6 @@
 
 2. For automatically start streaming server, add the path to `/etc/rc.local`.
 
-	#start streaming server
 	sudo sh /home/dixhom/mjpg-streamer/start_server.sh
 
 3. Install Adafruit python library. Check this tutorial https://learn.adafruit.com/dht-humidity-sensing-on-raspberry-pi-with-gdocs-logging/overview
