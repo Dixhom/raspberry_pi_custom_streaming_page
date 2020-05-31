@@ -7,6 +7,8 @@
 - Wifi module (Planex, GW-USNANO2A)
 - Temperature and humidity sensor (DHT22)
 
+![Equipments](imgs/equipments.jpg)  
+
 ## Procedure
 1. Install mjpg-streamer
 
