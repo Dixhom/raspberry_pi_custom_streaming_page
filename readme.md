@@ -1,4 +1,4 @@
-# Setting up custom streaming page in Rasberry Pi
+# Setting up video surveillance application using Rasberry Pi
 
 ## Equipments
 - Raspberry Pi 2 Model B v1.1
