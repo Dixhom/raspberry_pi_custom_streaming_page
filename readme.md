@@ -1,6 +1,6 @@
 # Setting up custom streaming page in Rasberry Pi
 
-## What you have to prepare 
+## Instruments
 - Raspberry Pi 2 Model B v1.1
 - Micro SD card
 - Web camera (Logicool)
