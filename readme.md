@@ -2,9 +2,9 @@
 
 ## What you have to prepare 
 - Raspberry Pi
-- SD card
-- Web camera
-- DHT22
+- MiSD card
+- Web camera (Logicool)
+- Temperature and humidity sensor (DHT22)
 
 ## Procedure
 1. Install mjpg-streamer
