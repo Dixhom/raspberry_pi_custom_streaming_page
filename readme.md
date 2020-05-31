@@ -2,7 +2,7 @@
 
 ## What you have to prepare 
 - Raspberry Pi 2 Model B v1.1
-- MiSD card
+- Micro SD card
 - Web camera (Logicool)
 - Temperature and humidity sensor (DHT22)
 
