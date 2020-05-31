@@ -1,7 +1,7 @@
 # Setting up custom streaming page in Rasberry Pi
 
 ## What you have to prepare 
-- Raspberry Pi
+- Raspberry Pi 2 Model B v1.1
 - MiSD card
 - Web camera (Logicool)
 - Temperature and humidity sensor (DHT22)
