@@ -1,9 +1,10 @@
 # Setting up custom streaming page in Rasberry Pi
 
-## Instruments
+## Equipments
 - Raspberry Pi 2 Model B v1.1
 - Micro SD card
 - Web camera (Logicool)
+- Wifi module (Planex, GW-USNANO2A)
 - Temperature and humidity sensor (DHT22)
 
 ## Procedure
