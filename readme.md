@@ -3,7 +3,7 @@
 ## Equipments
 - Raspberry Pi 2 Model B v1.1
 - Micro SD card
-- Web camera (Logicool)
+- Web camera (Logicool, C270)
 - Wifi module (Planex, GW-USNANO2A)
 - Temperature and humidity sensor (DHT22)
 
